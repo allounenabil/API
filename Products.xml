@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Prod>
+  <Product1 Catalogue="Oui">
+    <ID>1</ID>
+    <Designation>Telephone</Designation>
+    <Prix>80</Prix>
+    <Qty>19</Qty>
+    <Promotion>Promo_ete</Promotion>
+  </Product1>
+  <Product2 Catalogue="Oui">
+    <ID>2</ID>
+    <Designation>Carte Memoire</Designation>
+    <Prix>6</Prix>
+    <Qty>55</Qty>
+    <Promotion>Promo_ete</Promotion>
+  </Product2>
+  <Product3 Catalogue="Non">
+    <ID>3</ID>
+    <Designation>Disquettes</Designation>
+    <Prix>20</Prix>
+    <Qty>0</Qty>
+    <Promotion>Non_Concerné</Promotion>
+  </Product3>
+  <Product4 Catalogue="Oui">
+    <ID>4</ID>
+    <Designation>Laptop</Designation>
+    <Prix>350</Prix>
+    <Qty>40</Qty>
+    <Promotion>Promo_hiver</Promotion>
+  </Product4>
+</Prod>

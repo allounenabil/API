@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Panier>
+  <Panier1.1>
+    <ID>1</ID>
+    <ProductId>1</ProductId>
+    <Qty>10</Qty>
+  </Panier1.1>
+  <Panier3.1>
+    <ID>3</ID>
+    <ProductId>1</ProductId>
+    <Qty>10</Qty>
+  </Panier3.1>
+  <Panier1.2>
+    <ID>1</ID>
+    <ProductId>2</ProductId>
+    <Qty>44</Qty>
+  </Panier1.2>
+</Panier>
